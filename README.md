@@ -14,5 +14,5 @@ This project provides a Python utility for printing text and executing paper cut
 
 ## Requirements
 
-- Python 3.12.x or the newst
+- Python 3.12.x or latest
 - `pywin32` library (for Windows)
